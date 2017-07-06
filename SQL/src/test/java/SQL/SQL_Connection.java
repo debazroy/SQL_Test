@@ -14,6 +14,7 @@ public class SQL_Connection {
 	while (rs.next()) {
 		System.out.println(rs.getString(1));
 		System.out.println(rs.getString(2));
+		//sapan bhai trailer
 		}
 	conn.close();
 	}
