@@ -6,5 +6,6 @@ public class AnotherJustTest {
   @Test
   public void run() {
 	  System.out.println("ok");
+	  System.out.println("okok");
   }
 }

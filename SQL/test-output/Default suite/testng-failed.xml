@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="SQL.HomeDepot">
+      <class name="ExcelFile.Excel">
         <methods>
-          <include name="test"/>
+          <include name="ExcelConnection"/>
         </methods>
-      </class> <!-- SQL.HomeDepot -->
+      </class> <!-- ExcelFile.Excel -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
