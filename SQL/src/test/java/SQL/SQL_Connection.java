@@ -16,6 +16,6 @@ public class SQL_Connection {
 		System.out.println(rs.getString(2));
 		//sapan bhai trailer
 		}
-	conn.close();
+	conn.close()
 	}
 }
