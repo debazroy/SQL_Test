@@ -22,6 +22,6 @@ public class jenkinsTest {
 	  String ExpectedTitle = "Banking with Citi | Citi.com";
 	  Assert.assertEquals(ActualTitle, ExpectedTitle);
 	  System.out.println(ActualTitle);
-	  driver.quit();
+	  driver.quit()
   }
 }
