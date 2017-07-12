@@ -10,7 +10,7 @@ import io.github.bonigarcia.wdm.ChromeDriverManager;
 import junit.framework.Assert;
 
 public class jenkinsTest {
-	WebDriver driver = null;
+	//WebDriver driver = null;
   @Test
   public void jk() {
 	  ChromeDriverManager.getInstance().setup();
