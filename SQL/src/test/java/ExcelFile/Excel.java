@@ -27,7 +27,7 @@ public class Excel {
 		FileOutputStream fout = new FileOutputStream(src);
 		sh1.getRow(1).createCell(4).setCellValue(true);
 		wb.write(fout);
-		fout.close();
+		fout.close()
 		wb.close()
 	}	
 }
